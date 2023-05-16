@@ -1,0 +1,38 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "RAMS/Central Hall",
+          "docs": [
+            {
+              "id": "RAMS/Central Hall",
+              "path": "/docs/RAMS/Central Hall",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/rams",
+              "path": "/docs/category/rams",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/category/rams",
+                "label": "RAMS"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

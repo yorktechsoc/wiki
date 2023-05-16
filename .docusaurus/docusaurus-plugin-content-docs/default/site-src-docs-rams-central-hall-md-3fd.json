@@ -1,0 +1,23 @@
+{
+  "unversionedId": "RAMS/Central Hall",
+  "id": "RAMS/Central Hall",
+  "title": "Central Hall",
+  "description": "Test page",
+  "source": "@site/src/docs/RAMS/Central Hall.md",
+  "sourceDirName": "RAMS",
+  "slug": "/RAMS/Central Hall",
+  "permalink": "/docs/RAMS/Central Hall",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Central Hall"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RAMS",
+    "permalink": "/docs/category/rams"
+  }
+}
