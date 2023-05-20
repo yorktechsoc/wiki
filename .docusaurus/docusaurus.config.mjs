@@ -26,11 +26,11 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/housane/wiki/sidebars.js",
+          "sidebarPath": "/workspaces/wiki/sidebars.js",
           "path": "src/docs"
         },
         "theme": {
-          "customCss": "/Users/housane/wiki/src/css/custom.css"
+          "customCss": "/workspaces/wiki/src/css/custom.css"
         }
       }
     ]
@@ -52,12 +52,14 @@ export default {
       "items": [
         {
           "label": "Guides",
-          "to": "sop",
+          "type": "doc",
+          "docId": "/category/guides",
           "position": "left"
         },
         {
           "label": "RAMS",
-          "to": "RAMS",
+          "type": "doc",
+          "docId": "/category/RAMS",
           "position": "left"
         },
         {

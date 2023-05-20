@@ -13,9 +13,9 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/housane/wiki/sidebars.js",
-          "contentPath": "/Users/housane/wiki/src/docs",
-          "contentPathLocalized": "/Users/housane/wiki/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/workspaces/wiki/sidebars.js",
+          "contentPath": "/workspaces/wiki/src/docs",
+          "contentPathLocalized": "/workspaces/wiki/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "RAMS/Central Hall",
@@ -34,7 +34,7 @@
                 "sidebar_position": 1,
                 "title": "Central Hall"
               },
-              "sidebar": "tutorialSidebar",
+              "sidebar": "docsSidebar",
               "previous": {
                 "title": "RAMS",
                 "permalink": "/docs/category/rams"
@@ -43,7 +43,7 @@
           ],
           "drafts": [],
           "sidebars": {
-            "tutorialSidebar": [
+            "docsSidebar": [
               {
                 "type": "category",
                 "label": "RAMS",

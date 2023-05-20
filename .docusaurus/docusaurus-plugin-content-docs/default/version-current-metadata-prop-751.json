@@ -8,7 +8,7 @@
   "className": "docs-version-current",
   "isLast": true,
   "docsSidebars": {
-    "tutorialSidebar": [
+    "docsSidebar": [
       {
         "type": "category",
         "label": "RAMS",
@@ -31,7 +31,7 @@
       "id": "RAMS/Central Hall",
       "title": "Central Hall",
       "description": "Test page",
-      "sidebar": "tutorialSidebar"
+      "sidebar": "docsSidebar"
     }
   }
 }

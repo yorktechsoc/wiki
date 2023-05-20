@@ -13,17 +13,17 @@
             {
               "id": "RAMS/Central Hall",
               "path": "/docs/RAMS/Central Hall",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "docsSidebar"
             },
             {
               "id": "/category/rams",
               "path": "/docs/category/rams",
-              "sidebar": "tutorialSidebar"
+              "sidebar": "docsSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
-            "tutorialSidebar": {
+            "docsSidebar": {
               "link": {
                 "path": "/docs/category/rams",
                 "label": "RAMS"

@@ -65,13 +65,13 @@ const config = {
           {
             label: 'Guides',
             type: 'doc', 
-            docID: '/category/guides',
+            docId: '/category/guides',
             position:'left'
           },
           {
             label: 'RAMS',
-            type: 'RAMS',
-            docID: '/category/RAMS',
+            type: 'doc',
+            docId: '/category/RAMS',
             position: 'left'
           },
           {
