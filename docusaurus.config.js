@@ -107,7 +107,7 @@ const config = {
                 href: "https://yusu.org/",
               },
               {
-                label: "YUFUND",
+                label: "YuFund",
                 href: "https://www.york.ac.uk/york-unlimited/",
               },
               {
