@@ -1,4 +1,6 @@
 site_name: Technical Theatre Wiki
+site_description: A wiki for the Technical Theatre Society at the University of York
+site_author: University of York's Technical Theatre Society et all
 theme:
   name: material
   logo: img/logo.png
