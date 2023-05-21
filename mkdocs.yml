@@ -1,0 +1,16 @@
+site_name: Technical Theatre Wiki
+theme:
+  name: material
+  features:
+    - navigation.instant
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yorktechsoc
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/UoYTechSoc
+
+copyright: "Made with <3 by York Tech Soc"
+
+repo_url: https://github.com/yorktechsoc/wiki
