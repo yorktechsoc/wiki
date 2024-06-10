@@ -1,1 +1,12 @@
 site_name: Technical Theatre Wiki
+repo_url: https://github.com/yorktechsoc/wiki
+repo_name: GitHub
+
+site_description: A wiki for the York TechSoc
+site_author: York TechSoc
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
