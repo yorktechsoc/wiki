@@ -1,7 +1,0 @@
-{
-  "label": "Equipment",
-  "position": 4,
-  "link": {
-    "type": "generated-index"
-  }
-}
